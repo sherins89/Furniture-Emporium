@@ -14,3 +14,21 @@ background-color: #d6d6cd;
 width: 450; 
 display: inline-block;
 }
+
+.add-to-cart {
+
+    background-color: rgb(108, 218, 100);
+    font-family: monospace;
+}
+
+.Ergonomic-chair {
+
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.Newyork-chair {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
