@@ -3,3 +3,14 @@ p {
     font-size: 10pt;
     
 }
+
+.card {
+border: 3px solid #888;
+padding: 10px;
+border-radius: 10px;
+margin-bottom: 18px;
+margin-right: 10;
+background-color: #d6d6cd;
+width: 450; 
+display: inline-block;
+}
